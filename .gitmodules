@@ -1,0 +1,6 @@
+[submodule "activity.fbs"]
+	path = activity.fbs
+	url = git://github.com/adsharma/activity.fbs
+[submodule "raft.fbs"]
+	path = raft.fbs
+	url = git://github.com/adsharma/raft.fbs

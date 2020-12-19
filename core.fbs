@@ -1,0 +1,31 @@
+table Date {
+  ts: ulong;
+}
+
+table Duration {
+  duration: ulong;
+}
+
+table Language {
+  code: string;
+}
+
+table URL {
+  url: string;
+}
+
+table RelativeLink {
+  link: string;
+}
+
+table MimeType {
+  encoding: string;
+}
+
+table Bool {
+  val: bool;
+}
+
+table String {
+  val: string;
+}
