@@ -4,3 +4,6 @@
 [submodule "raft.fbs"]
 	path = raft.fbs
 	url = git://github.com/adsharma/raft.fbs
+[submodule "tdlib.fbs"]
+	path = tdlib.fbs
+	url = https://github.com/adsharma/tdlib.fbs
