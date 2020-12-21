@@ -30,10 +30,10 @@ table String {
   val: string;
 }
 
-table int128 {
+table Int128 {
   val: [byte] (max_length: 16);
 }
 
-table int256 {
+table Int256 {
   val: [byte] (max_length: 32);
 }
