@@ -29,3 +29,11 @@ table Bool {
 table String {
   val: string;
 }
+
+table int128 {
+  val: [byte] (max_length: 16);
+}
+
+table int256 {
+  val: [byte] (max_length: 32);
+}
